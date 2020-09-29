@@ -308,7 +308,7 @@ main {
   margin-bottom: 2px;
   width: 70%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-c {
@@ -316,7 +316,7 @@ main {
   margin-bottom: 2px;
   width: 70%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-java {
@@ -324,7 +324,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-python {
@@ -332,7 +332,7 @@ main {
   margin-bottom: 2px;
   width: 75%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-dart {
@@ -340,7 +340,7 @@ main {
   margin-bottom: 2px;
   width: 60%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-java {
@@ -348,7 +348,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-html {
@@ -356,7 +356,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-javascript {
@@ -364,7 +364,7 @@ main {
   margin-bottom: 2px;
   width: 60%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-php {
@@ -372,7 +372,7 @@ main {
   margin-bottom: 2px;
   width: 80%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-flutter {
@@ -380,7 +380,7 @@ main {
   margin-bottom: 2px;
   width: 60%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-mysql {
@@ -388,7 +388,7 @@ main {
   margin-bottom: 2px;
   width: 70%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-sql-server {
@@ -396,7 +396,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-oracle {
@@ -404,7 +404,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-optimistic {
@@ -412,7 +412,7 @@ main {
   margin-bottom: 2px;
   width: 85%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-hardworking {
@@ -420,7 +420,7 @@ main {
   margin-bottom: 2px;
   width: 80%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-team-player {
@@ -428,7 +428,7 @@ main {
   margin-bottom: 2px;
   width: 75%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .progress-bar-fill-adaptable {
@@ -436,7 +436,7 @@ main {
   margin-bottom: 2px;
   width: 65%;
   height: 4px;
-  background-color: #83ba09;
+  background-color:rgba(208, 255, 0, 0.863);
   border-radius: 5px; }
 
 .boxes {
